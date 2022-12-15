@@ -1,0 +1,20 @@
+{
+  "name": "postman-sync-tools",
+  "version": "0.1",
+  "description": "Sync Postman by postman-local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JhomeWu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "browserify": "^16.5.0",
+    "chalk": "^2.4.2",
+    "commander": "^4.0.1",
+    "detective": "^5.2.0",
+    "dotenv": "^16.0.3",
+    "enquirer": "^2.3.2"
+  }
+}
